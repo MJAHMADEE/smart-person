@@ -3,12 +3,12 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=1000&pause=2000&color=00000062&center=true&vCenter=true&random=false&width=441&lines=Front+End+Developer;WordPress+Expert;ASP.NET+Developer;Blazor!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=1000&pause=2000&color=00000062&center=true&vCenter=true&random=false&width=441&lines=Independent+Generative+AI+Developer;Full+Stack+Developer;)](https://git.io/typing-svg)
  
 <div>
   
   <h1 align="center">
-    If something is important enough, you should try, even if the probable outcome is failure. 😃️
+    A good programmer is someone who always looks both ways before crossing a one-way street.
   </h1>
   
 </div>
